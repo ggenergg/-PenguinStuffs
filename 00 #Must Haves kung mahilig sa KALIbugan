@@ -21,7 +21,10 @@ Ibaba muna ang package... then...
 dpkg -i tabby-1.0.235-linux-x64.deb     
 
 
-LAMPPara
+LAMPPara (baba package muna, kung XAMPP pa rin nakikita  oks lang)
+chmod +x xampp-linux-*-installer.run 
+./xampp-linux-*-installer.run  
+Launch App --> /opt/lampp/manager-linux-x64.run   
 
 
 
