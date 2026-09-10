@@ -16,10 +16,18 @@ Arduino IDE
 
 
 
-Tabby
+Tabby 
+Ibaba muna ang package... then...
+dpkg -i tabby-1.0.235-linux-x64.deb     
 
 
 LAMPPara
+
+
+
+FINGfong
+
+
 
 
 
@@ -38,6 +46,26 @@ Himayin yung naging kabit for hapiness --> cat /etc/NetworkManager/system-connec
 Kung makulit ang liwanag ng monitor...
 apt-get install brightnessctl 
 brightnessctl set <ilang porsyento %>      
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Screencast (need si Snappy)
+
+snap install blue-recorder   
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+VSCode (need si Snappy)
+
+snap install code --classic
+
+
+
+
+
+
 
 
 
