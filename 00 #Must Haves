@@ -1,0 +1,43 @@
+NMAP
+
+
+
+WireShark
+
+
+Oracle VBox
+
+
+
+Google Chrome
+
+
+Arduino IDE
+
+
+
+Tabby
+
+
+LAMPPara
+
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+netsh wlan profiles for penguins:
+
+cat /etc/NetworkManager/system-connections/
+Silipin ang mga natandaang naging kabit --> ls /etc/NetworkManager/system-connections (pang baby)
+                              OR        --> nmcli -s connection show (pang-kamag-anak ni taguro)
+Himayin yung naging kabit for hapiness --> cat /etc/NetworkManager/system-connections/<pangalan nya>.nmconnection
+
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Kung makulit ang liwanag ng monitor...
+
+brightnessctl set <ilang porsyento %>      
+
+
+
