@@ -36,7 +36,7 @@ Himayin yung naging kabit for hapiness --> cat /etc/NetworkManager/system-connec
 |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 
 Kung makulit ang liwanag ng monitor...
-
+apt-get install brightnessctl 
 brightnessctl set <ilang porsyento %>      
 
 
